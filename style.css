@@ -243,7 +243,11 @@ footer{
     }
     .sec5{
         width: 250%;
+        margin: 1px 30px 1px 60px;
     }
 
+    .end{
+        width: 350%;
+    }
     
 }
