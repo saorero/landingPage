@@ -6,6 +6,7 @@
     margin: 0;
     box-sizing: border-box;
 }
+
 /*Section one styling*/
 
 body{
@@ -303,19 +304,23 @@ a{
 {
     margin-left: 250px;
 }
-    .sec1,.sec2,.sec3,.sec4{
-        width: 300%;
+    .sec2,.sec3,.sec4{
+        width: 250%;
         height: 800px;
-        font-size: 18px;
+        font-size: 30px;
+       padding: 40px;
        
     }
+
     .sec5{
-        width: 250%;
-        margin: 1px 30px 1px 60px;
+        width: 375%;
+        margin: 1px 60px 1px 40px;
+       
+        
     }
 
     .end{
-        width: 350%;
+        width: 400%;
     }
     .sec1{
         background-image: url(./bg-hero-mobile.svg);
